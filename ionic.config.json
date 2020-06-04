@@ -1,5 +1,7 @@
 {
   "name": "SampleSim",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
